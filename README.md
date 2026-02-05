@@ -9,6 +9,16 @@ This application allows users to generate, edit, and manage AI-powered content w
 
 ---
 
+## 📸 Screenshots
+
+### Landing Page
+![Landing Page](./public/landingPage.png)
+
+### Dashboard
+![Dashboard](./public/Dashboard.png)
+
+---
+
 ## 🚀 Features
 
 * 🔐 User authentication with Clerk
